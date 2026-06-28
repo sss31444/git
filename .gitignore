@@ -27,5 +27,8 @@ venv/
 node_modules/
 npm-debug.log*
 
+# Claude Code local settings
+.claude/
+
 # Windows
 [Tt]humbs.db
